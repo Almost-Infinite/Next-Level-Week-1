@@ -10,8 +10,13 @@
 ![Next Level Week](./public/assets/nlw4.png)
 ![Next Level Week](./public/assets/nlw5.png)
 
-### My Social Medias
+## Social Medias
 
-* [GitHub](https://github.com/Almost-Infinite)
-* [Instagram](https://www.instagram.com/luan_b.m.s/)
-* [Twitter](https://twitter.com/luko100)
+<br><br>
+
+<p align="left">
+<a href="https://www.facebook.com/Almost.Infinite" target="_blank"><img src="https://i.imgur.com/qosjk0z.png" title="Facebook" align="left" height="90" width="90" ></a>
+<a href="https://www.instagram.com/almost_infinite/" target="_blank"><img src="https://i.imgur.com/yVUjfBA.png" title="Instagram" align="left" height="90" width="90" ></a>
+<a href="https://twitter.com/_AlmostInfinite" target="_blank"><img src="https://imgur.com/mh9BMBM.png" title="Twitter" align="left" height="90" width="90" ></a>
+<a href="https://github.com/Almost-Infinite" target="_blank"><img src="https://i.imgur.com/rljGz7f.png" title="GitHub" align="left" height="90" width="90" ></a>
+</p> 
